@@ -1,1 +1,2 @@
-# Cyber-Security-Breach
+Cyber Security is the application of technologies, processes and controls to protect systems, networks, programs, devices & data from cyber attacks.It aims to reduce the risk of cyber attacks and protect against the unauthorised exploitation of systems, networks & technologies
+To develop the basic understanding of analysis of the Cybersecurity breaches occurred in the past and how many breaches are currently open, Number of employees are affected by it and the types of Breaches.
